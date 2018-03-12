@@ -1,0 +1,4 @@
+﻿1>------ Derleme başladı: Proje: WindowsFormsApp1, Yapılandırma: Debug Any CPU ------
+1>C:\Users\UserPC\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs(21,14,21,23): warning CS0414: 'Form1.UpperCase' alanı atanır ancak değeri hiçbir zaman kullanılmaz
+1>  WindowsFormsApp1 -> C:\Users\UserPC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+========== Oluşturma: 1 başarılı, 0 başarısız, 0 güncel, 0 atlandı ==========
